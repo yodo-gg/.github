@@ -22,5 +22,8 @@ Silly name. Serious service.
 
 ## TODOs
 
-- Link in logo.
-- Beautify the README.
+- [ ] Beautify the README.
+
+## TODONEs
+
+- [x] Link in logo.
