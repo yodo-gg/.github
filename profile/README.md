@@ -2,6 +2,7 @@
 ### Silly name; serious service.
 
 ![yodo.gg logo](https://github.com/yodo-gg/.github/profile/docs/images/logo.png)
+![yodo.gg logo](docs/images/logo.png)
 
 ## Goals
 
