@@ -1,10 +1,9 @@
 # yodo.gg
 ### Silly name; serious service.
 
-![yodo.gg logo](docs/images/logo.png)
 <center>
 <h1>
-<img src="docs/images/logo.png" style="width: 125px; height: 125px"/>
+<img src="docs/images/logo.png" style="width: 200px; height: 200px"/>
 </h1>
 </center>
 
