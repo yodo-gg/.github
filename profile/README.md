@@ -1,8 +1,12 @@
 # yodo.gg
 ### Silly name; serious service.
 
-![yodo.gg logo](https://github.com/yodo-gg/.github/profile/docs/images/logo.png)
 ![yodo.gg logo](docs/images/logo.png)
+<center>
+<h1>
+<img src="docs/images/logo.png" style="width: 125px; height: 125px"/>
+</h1>
+</center>
 
 ## Goals
 
