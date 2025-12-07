@@ -1,6 +1,6 @@
 <center>
 <h1>
-<img src="docs/images/logo.png" style="width: 300px; height: 300px"/>
+<img src="docs/images/logo.png" style="width: 300px; height: 300px"/><br/>
 Silly name. Serious service.
 </h1>
 </center>
