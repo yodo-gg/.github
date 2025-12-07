@@ -1,6 +1,8 @@
 <div align="center">
+<h1>
 <img src="docs/images/logo.png" width="300" height=" 300" alt="Silly name. Serious Service"/><br/>
-</center>
+Silly name. Serious service.
+</div>
 
 ## Goals
 
