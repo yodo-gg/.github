@@ -4,6 +4,10 @@
 silly name. serious service.
 </div>
 
+## What Are We?
+
+An anonymous, utility-billed alerting service.
+
 ## Goals
 
 - As anonymous as we can get away with.
