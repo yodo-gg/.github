@@ -3,7 +3,8 @@
 
 <center>
 <h1>
-<img src="docs/images/logo.png" style="width: 200px; height: 200px"/>
+<img src="docs/images/logo.png" style="width: 300px; height: 300px"/>
+Silly name; serious service.
 </h1>
 </center>
 
