@@ -17,8 +17,8 @@ An anonymous, utility-billed alerting service.
   - Web UI.
 - Open Source.
   - No gatekeeping ideas.
-  - If you want to host it yourself, go for it!
   - We welcome contributions!
+  - If you want to host it yourself, go for it!
 - Privacy-focused payment methods preferred.
   - If you want to buy us a coffee we won't mind!
 - Have fun! (Do no harm but take no shit.)
