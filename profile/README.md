@@ -1,8 +1,5 @@
-<center>
-<h2>
-<img src="docs/images/logo.png" style="width: 300px; height: 300px"/><br/>
-Silly name. Serious service.
-</h2>
+<div align="center">
+<img src="docs/images/logo.png" width="300" height=" 300" alt="Silly name. Serious Service"/><br/>
 </center>
 
 ## Goals
