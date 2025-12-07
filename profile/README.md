@@ -1,8 +1,8 @@
 <center>
-<h1>
+<h2>
 <img src="docs/images/logo.png" style="width: 300px; height: 300px"/><br/>
 Silly name. Serious service.
-</h1>
+</h2>
 </center>
 
 ## Goals
