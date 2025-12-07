@@ -1,7 +1,7 @@
 # yodo.gg
 ### Silly name; serious service.
 
-![https://github.com/yodo-gg/.github/profile/docs/images/logo.png]
+![yodo.gg logo](https://github.com/yodo-gg/.github/profile/docs/images/logo.png)
 
 ## Goals
 
